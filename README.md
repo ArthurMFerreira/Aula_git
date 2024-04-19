@@ -4,3 +4,5 @@ Acrescentando novo um texto ao arquivo
 
 
 Mais uma alteração do arquivo
+
+😀😎
